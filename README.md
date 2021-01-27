@@ -1,0 +1,2 @@
+# s21-time-table
+TIME TABLE OF S21 SEMESTER ECE23
