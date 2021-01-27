@@ -1,0 +1,38 @@
+body{
+    text-align: center;
+}
+a{
+    text-decoration: none;
+}
+
+.tt{
+    margin-top: 50px;
+}
+
+/*-----Days-----*/
+.days{
+    background-color: #213e3b;
+    color: white;
+        font-weight: bold;
+}
+
+.col{
+    padding: 20px;
+    border: white 3px solid;
+}
+
+.row{
+    margin: 0;
+}
+
+.blank{
+    background-color: #e8ffff;
+}
+.lect{
+    background-color: #41aea9;
+    color: white;
+}
+.ds{
+    background-color: #a6f6f1;
+    color: #213e3b;
+}
